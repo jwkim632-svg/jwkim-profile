@@ -159,7 +159,7 @@ export default function App() {
               <span className="inline-block px-4 py-1 rounded-full bg-accent/20 text-accent text-sm font-bold mb-6 border border-accent/30 backdrop-blur-sm">
                 30년 경력의 하이테크 인재 전략가
               </span>
-              <h1 className="text-5xl md:text-7xl font-extrabold mb-8 leading-[1.1] tracking-tight">
+              <h1 className="text-4xl md:text-6xl font-extrabold mb-8 leading-[1.1] tracking-tight">
                 기술의 깊이를 읽고,<br />
                 <span className="text-accent">사람의 가치</span>를 연결합니다.
               </h1>
@@ -208,7 +208,7 @@ export default function App() {
               viewport={{ once: true }}
             >
               <h2 className="text-sm font-bold text-accent uppercase tracking-widest mb-4">Our Vision</h2>
-              <h3 className="text-4xl md:text-5xl font-bold text-primary mb-8 leading-tight">
+              <h3 className="text-3xl md:text-4xl font-bold text-primary mb-8 leading-tight">
                 기술의 깊이를 읽고,<br />사람의 가치를 연결합니다.
               </h3>
               <div className="space-y-6 text-slate-600 text-lg">
